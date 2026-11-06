@@ -124,3 +124,5 @@ Your CloudTrail trail was deleted at 03:12 — how would you prove it, and where
 ---
 
 *Part of the daily cloud engineering series — one standalone guide per day. Previous: [aws-sqs-sns-messaging-guide](https://github.com/sepkascurty-cpu/aws-sqs-sns-messaging-guide).*
+
+*Last updated: 2026-11-07.*
